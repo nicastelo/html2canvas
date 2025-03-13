@@ -6,7 +6,7 @@
   "module": "dist/html2canvas.esm.js",
   "typings": "dist/types/index.d.ts",
   "browser": "dist/html2canvas.js",
-  "version": "1.5.0",
+  "version": "1.5.0-alpha.0",
   "author": {
     "name": "Nicolas Castellanos",
     "email": "imnicastelo@gmail.com"
