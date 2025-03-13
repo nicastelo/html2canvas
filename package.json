@@ -1,26 +1,25 @@
 {
   "title": "html2canvas",
-  "name": "html2canvas",
-  "description": "Screenshots with JavaScript",
+  "name": "html2canvas-oklch",
+  "description": "Screenshots with JavaScript (Fork with OKLCH support)",
   "main": "dist/html2canvas.js",
   "module": "dist/html2canvas.esm.js",
   "typings": "dist/types/index.d.ts",
   "browser": "dist/html2canvas.js",
-  "version": "1.4.1",
+  "version": "1.5.0",
   "author": {
-    "name": "Niklas von Hertzen",
-    "email": "niklasvh@gmail.com",
-    "url": "https://hertzen.com"
+    "name": "Nicolas Castellanos",
+    "email": "imnicastelo@gmail.com"
   },
   "engines": {
     "node": ">=8.0.0"
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:niklasvh/html2canvas.git"
+    "url": "git@github.com:nicastelo/html2canvas.git"
   },
   "bugs": {
-    "url": "https://github.com/niklasvh/html2canvas/issues"
+    "url": "https://github.com/nicastelo/html2canvas/issues"
   },
   "devDependencies": {
     "@babel/cli": "^7.4.3",
@@ -115,7 +114,6 @@
     "watch:unittest": "mocha --require ts-node/register --watch-extensions ts -w src/**/__tests__/*.ts",
     "start": "ts-node tests/server --port=8080 --cors=8081"
   },
-  "homepage": "https://html2canvas.hertzen.com",
   "license": "MIT",
   "dependencies": {
     "css-line-break": "^2.1.0",
