@@ -69,3 +69,7 @@ For more information and examples, please visit the [homepage](https://html2canv
 ### Contributing ###
 
 If you wish to contribute to the project, please send the pull requests to the main branch. Before submitting any changes, try and test that the changes work with all the support browsers. If some CSS property isn't supported or is incomplete, please create appropriate tests for it as well before submitting any code changes.
+
+### License ###
+
+This project is licensed under the MIT License. The fork retains the original license while incorporating additional modifications under the same terms.
