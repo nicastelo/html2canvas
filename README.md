@@ -1,6 +1,9 @@
 html2canvas-oklch
 =================
 
+[![NPM Downloads](https://img.shields.io/npm/dm/html2canvas-oklch.svg)](https://www.npmjs.com/package/html2canvas-oklch)
+[![NPM Version](https://img.shields.io/npm/v/html2canvas-oklch.svg)](https://www.npmjs.com/package/html2canvas-oklch)
+
 #### JavaScript HTML renderer ####
 
 `html2canvas-oklch` is a fork of [html2canvas](https://html2canvas.hertzen.com) that allows you to take "screenshots" of webpages (or parts thereof) directly in the user's browser. In addition to the original features, this fork adds support for the OKLCH color function.
